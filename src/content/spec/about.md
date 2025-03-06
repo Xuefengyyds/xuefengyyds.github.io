@@ -6,7 +6,7 @@ comments: false
 
 ## 关于 Gyoza
 
-Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
+Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计
 
 Gyoza 的核心理念是简洁，快速，可爱。
 
